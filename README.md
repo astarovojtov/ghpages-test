@@ -1,1 +1,1 @@
-https://astarovojtov.github.io/ghpages-test/index
+https://astarovojtov.github.io/ghpages-test/qwe/index
